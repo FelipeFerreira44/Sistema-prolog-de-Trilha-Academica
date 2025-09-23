@@ -25,5 +25,5 @@
 4. No console de query execute:
    - **Modo Interativo**: ` iniciar.`  
      (Responda 's' ou 'n' para as 11 perguntas; o sistema valida e exibe recomendações.)
-   - **Teste Automatizado**: ` testar(1).`  
-     (Carrega perfil de teste 1 e exibe ranking sem prompts.)
+   - **Teste Automatizado**: ` testar(n).`  
+     (Carrega perfil de teste n e exibe ranking sem prompts.)
