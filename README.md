@@ -27,5 +27,3 @@
      (Responda 's' ou 'n' para as 11 perguntas; o sistema valida e exibe recomendações.)
    - **Teste Automatizado**: ` testar(1).`  
      (Carrega perfil de teste 1 e exibe ranking sem prompts.)
-   - **Debug**: ` carrega_teste(1), verifica_pontuacao.`  
-     (Mostra pontuações: ex. [14-inteligencia_artificial, 13-ciencia_de_dados, ...].)
