@@ -205,6 +205,6 @@ verifica_pontuacao :-
     format('Pontuações: ~w~n', [Lista]).
 
 % =============================================================================
-% Interativo: ?- iniciar.
-% Teste: ?- testar(1). OU ?- carrega_teste(1), iniciar. (Pressione ENTER, não ';')
+% Interativo:  iniciar.
+% Teste:  testar(1). 
 % =============================================================================
