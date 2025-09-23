@@ -3,10 +3,13 @@
 ### PONTIFÍCIA UNIVERSIDADE CATÓLICA DO PARANÁ
 
 **Matéria:** Programação Lógica e Funcional 
+
 **Curso:** CIÊNCIA DA COMPUTAÇÃO
+
 **Professor:** Frank Coelho de Alcantara
 
 **Nome do Estudante:** Felipe Willian Barros Ferreira
+
 **Nome Github:** FelipeFerreira44
 
 ## Requisitos
